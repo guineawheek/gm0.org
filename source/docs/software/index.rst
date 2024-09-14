@@ -13,3 +13,4 @@ This section covers the basics of software for FTC\ |reg|.
    concepts/index
    adv-control-system/index
    software-glossary
+   computer-vision-for-ftc/index
